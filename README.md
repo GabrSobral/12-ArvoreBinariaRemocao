@@ -1,6 +1,9 @@
 # Arvores (remoção de  elemento)
 ---
 
+Email - Gabriel.Santos1378@fatec.sp.gov.br
+Nome - Gabriel Sobral
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá estender sua compreensão os seguintes conceitos:
